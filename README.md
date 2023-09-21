@@ -12,4 +12,3 @@ Tenho 26 anos, sou formado em Análise e Desenvolvimento de Sistemas e estou em 
   ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
-![matheuslpiresm's Stats](https://github-readme-stats.vercel.app/api?username=matheuslpiresm&theme=gotham&show_icons=true&hide_border=false&count_private=true)
